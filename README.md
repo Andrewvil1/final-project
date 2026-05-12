@@ -1,2 +1,3 @@
 # final-project
 final project fot class
+This FinalProject uses the Student_Perfomance data with 10k entries including hours studied, previous scores, sleep hours, and performance. The main methods used were turning the Yes/No in extracirricular activities into 1 and 0 making it easier to use in models. The main model used was a random forest model inorder to to show the target variable influencing student performance. I'd say the key findings are that all variables play a factor, but variables like sleep and extracirricular activities don't play as much of a factor as previous scores and hours studied. 
